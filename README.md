@@ -32,16 +32,16 @@ The application aims to provide a seamless, personalized experience for sports e
 
 ## Team Members
 
-- Caroline Thom, 261047361
-- Ana-Maria Floarea, 261053512
-- Deniz Emre, 261029931
-- Alisha Malik, 261071602
-- Reswanth Reji Pillai, 261108990
-- Ivan Zhang, 260955948
-- James Fu, 261050005
-- Jacob Kirolous Gayed, 260986414
-- Sara Tahdi, 261116437
-- Sirine Tarhouni, 261056541
+- Caroline Thom
+- Ana-Maria Floarea
+- Deniz Emre
+- Alisha Malik
+- Reswanth Reji Pillai
+- Ivan Zhang
+- James Fu
+- Jacob Kirolous Gayed
+- Sara Tahdi
+- Sirine Tarhouni
 
 ---
 
